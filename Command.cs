@@ -10,6 +10,7 @@
 // NANG CAP V5.0 SO VOI V4.1:
 //   [BIM-01] Phan nhom BIM: KC, KCP, LK, MG, SN, TG, CUA, MEP, MAI
 //   [BIM-02] Lien ket dung GenericModel + naming LK_ (DirectShape ko ho tro StructConnections)
+
 //   [BIM-03] Tao 3D view + plan view tu dong
 //   [BIM-04] Tao schedule cot, dam tu dong
 //   [BIM-05] Toi uu sag rod (2 duong/mai/bay thay vi hang tram doan)
